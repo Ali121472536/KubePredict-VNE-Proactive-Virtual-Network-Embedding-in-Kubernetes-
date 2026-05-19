@@ -73,8 +73,7 @@ KubePredict-VNE/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/KubePredict-VNE.git
-cd KubePredict-VNE
+https://github.com/Ali121472536/KubePredict-VNE-Proactive-Virtual-Network-Embedding-in-Kubernetes-.git
 ```
 
 Create environment:
